@@ -658,7 +658,7 @@
   {
     "Asset": "Native UI - Mobile UI Kit (Muk V2)",
     "Publisher": "Aitezaz Tech",
-    "Price": "$58.00",
+    "Price": "$58",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/c5d6c8f5-835b-4927-afd2-4f0624988aae.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/313350"
@@ -2818,7 +2818,7 @@
   {
     "Asset": "Flappy Cube",
     "Publisher": "Cube Game",
-    "Price": "$15.00",
+    "Price": "$15",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/b5d87fc5-69f6-4d55-93ad-8da1b7423924.png?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/279774"
@@ -3018,7 +3018,7 @@
   {
     "Asset": "Color Box - UV Free Unlit Color Gradient Shader",
     "Publisher": "Digicrafts",
-    "Price": "$19.00",
+    "Price": "$19",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/92c7d6de-c1a2-41fa-a3f9-90215ff49a0f.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/vfx/shaders/color-box-uv-free-unlit-color-gradient-shader-67924"
@@ -3106,8 +3106,8 @@
   {
     "Asset": "Chinese Cyborg Warrior Character Free",
     "Publisher": "DragonXu",
-    "Price": "$50",
-    "IsFree": false,
+    "Price": "Free",
+    "IsFree": true,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/76e318ae-338c-4da7-8db7-9a71f26a964e.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/287098"
   },
@@ -3266,7 +3266,7 @@
   {
     "Asset": "Cartoon Characters_Japanese style",
     "Publisher": "Dreams Studio",
-    "Price": "$35",
+    "Price": "$19.99",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/ff0650b8-6b98-4f38-a415-97c5a45850c4.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/301759"
@@ -3274,7 +3274,7 @@
   {
     "Asset": "Cartoon Characters Pack7",
     "Publisher": "Dreams Studio",
-    "Price": "$24.99",
+    "Price": "$19.99",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/28967caa-aef0-4d0c-b264-7316a33afafb.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/307418"
@@ -3282,7 +3282,7 @@
   {
     "Asset": "Cartoon Characters Pack10",
     "Publisher": "Dreams Studio",
-    "Price": "$24.99",
+    "Price": "$19.99",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/e43535fb-5fb2-4a58-96f1-626a86330da9.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/307545"
@@ -3290,7 +3290,7 @@
   {
     "Asset": "Cartoon Characters_Japanese style2",
     "Publisher": "Dreams Studio",
-    "Price": "$35",
+    "Price": "$24.99",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/46819512-41c6-483f-b79b-15d7eaabee56.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/307805"
@@ -3298,7 +3298,7 @@
   {
     "Asset": "Cartoon Characters_Japanese style3",
     "Publisher": "Dreams Studio",
-    "Price": "$35",
+    "Price": "$24.99",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/0c79be74-8af8-4b20-8483-4f09a54cee06.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/312540"
@@ -3306,7 +3306,7 @@
   {
     "Asset": "Cartoon Characters Pack11",
     "Publisher": "Dreams Studio",
-    "Price": "$24.99",
+    "Price": "$19.99",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/39edf359-a91e-40b3-a1db-6d77cb53918e.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/307660"
@@ -3314,7 +3314,7 @@
   {
     "Asset": "Cartoon Characters_Japanese style4",
     "Publisher": "Dreams Studio",
-    "Price": "$35",
+    "Price": "$24.99",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/e605379c-d300-4645-a684-72ba08488dd0.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/cartoon-characters-japanese-style4-312738"
@@ -3322,7 +3322,7 @@
   {
     "Asset": "Cartoon Characters Pack8",
     "Publisher": "Dreams Studio",
-    "Price": "$24.99",
+    "Price": "$19.99",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/bb2757cf-7cf2-441b-b6b5-6dd3c7359a1a.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/307439"
@@ -3338,7 +3338,7 @@
   {
     "Asset": "Cartoon Characters_Japanese style5",
     "Publisher": "Dreams Studio",
-    "Price": "$35",
+    "Price": "$24.99",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/57dff03e-21b9-4dfa-9d57-8bd416af8bc0.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/316802"
@@ -3346,7 +3346,7 @@
   {
     "Asset": "Cartoon Characters Pack9",
     "Publisher": "Dreams Studio",
-    "Price": "$24.99",
+    "Price": "$19.99",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/4e7e8c0d-ccad-469a-bcc5-5c6b30c1bc33.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/307532"
@@ -3354,7 +3354,7 @@
   {
     "Asset": "Cartoon Characters_Japanese style6",
     "Publisher": "Dreams Studio",
-    "Price": "$35",
+    "Price": "$24.99",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/38ab7d74-2e7d-4ace-8657-b8d8d46630da.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/316918"
@@ -3362,7 +3362,7 @@
   {
     "Asset": "Cartoon Characters_Japanese style7",
     "Publisher": "Dreams Studio",
-    "Price": "$35",
+    "Price": "$24.99",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/d1a025f5-caa8-4770-85c5-84f3be146900.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/cartoon-characters-japanese-style7-317003"
@@ -3370,7 +3370,7 @@
   {
     "Asset": "Cartoon Characters_Japanese style8",
     "Publisher": "Dreams Studio",
-    "Price": "$35",
+    "Price": "$24.99",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/ba6545af-40cd-4099-9539-ce4dc863aeae.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/cartoon-characters-japanese-style8-317090"
@@ -3378,7 +3378,7 @@
   {
     "Asset": "Cartoon Characters_Japanese style9",
     "Publisher": "Dreams Studio",
-    "Price": "$35",
+    "Price": "$24.99",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/b2c07549-3c28-420c-b264-5ddc12511559.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/cartoon-characters-japanese-style9-324041"
@@ -3386,7 +3386,7 @@
   {
     "Asset": "Cartoon Characters_Japanese style10",
     "Publisher": "Dreams Studio",
-    "Price": "$35",
+    "Price": "$24.99",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/1d7e2627-c051-43fe-8174-cfad07757d02.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/cartoon-characters-japanese-style10-330216"
@@ -3394,7 +3394,7 @@
   {
     "Asset": "Cartoon Characters_Japanese style11",
     "Publisher": "Dreams Studio",
-    "Price": "$35",
+    "Price": "$24.99",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/ace062be-cb0a-4686-a974-65fffe466447.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/330321"
@@ -3402,7 +3402,7 @@
   {
     "Asset": "Cartoon Characters_Japanese style12",
     "Publisher": "Dreams Studio",
-    "Price": "$35",
+    "Price": "$24.99",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/cddb17fa-56d0-4023-9f0a-1f3a81d1a4dd.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/330329"
@@ -3410,7 +3410,7 @@
   {
     "Asset": "Cartoon Characters_Japanese style14",
     "Publisher": "Dreams Studio",
-    "Price": "$35",
+    "Price": "$24.99",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/c3d520be-83ef-4ff5-949b-46b2a937ad1c.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/330828"
@@ -3418,7 +3418,7 @@
   {
     "Asset": "Cartoon Characters_Japanese style15",
     "Publisher": "Dreams Studio",
-    "Price": "$35",
+    "Price": "$24.99",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/b2ff2370-240f-4d18-b63f-b6dddb4c75d5.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/330838"
@@ -3434,7 +3434,7 @@
   {
     "Asset": "Cartoon Characters_Japanese style13",
     "Publisher": "Dreams Studio",
-    "Price": "$35",
+    "Price": "$24.99",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/28cfffe1-c46a-4805-b42c-0a6d3815740e.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/330567"
@@ -3442,7 +3442,7 @@
   {
     "Asset": "Cartoon Characters_Japanese style16",
     "Publisher": "Dreams Studio",
-    "Price": "$35",
+    "Price": "$24.99",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/db29fa54-05e7-46ec-a9eb-e6bffdf915b0.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/342938"
@@ -3738,7 +3738,7 @@
   {
     "Asset": "Sci-Fi UI Frame Collection",
     "Publisher": "Duckweed Studio",
-    "Price": "$19.00",
+    "Price": "$19",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/df8f53f4-5ebe-4bba-9765-a562fca09c4a.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/242817"
@@ -4490,7 +4490,7 @@
   {
     "Asset": "Medieval Fantasy RPG - Pixel Character Icons",
     "Publisher": "Ever_Pixels",
-    "Price": "$5.00",
+    "Price": "$5",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/cdaaad54-3b76-47df-b7f9-412d192cf35a.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/329864"
@@ -4762,7 +4762,7 @@
   {
     "Asset": "FMETP STREAM 4",
     "Publisher": "Frozen Mist",
-    "Price": "Unknown",
+    "Price": "",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/ee20f119-e3f0-4b82-a5ff-d724079f7fcc.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/282061"
@@ -4770,7 +4770,7 @@
   {
     "Asset": "FM Network 4.0",
     "Publisher": "Frozen Mist",
-    "Price": "Unknown",
+    "Price": "",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/7833f4f8-35bf-409e-b935-6659ebc62a1a.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/282469"
@@ -4778,7 +4778,7 @@
   {
     "Asset": "FM WebSocket 4.0",
     "Publisher": "Frozen Mist",
-    "Price": "Unknown",
+    "Price": "",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/fcb94278-3677-48a0-b447-f9e5fc0673c1.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/280159"
@@ -4810,7 +4810,7 @@
   {
     "Asset": "FM Remote Desktop 2 (Add-on)",
     "Publisher": "Frozen Mist",
-    "Price": "$800",
+    "Price": "$300",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/74603a59-ff5a-4538-b743-bf6a15a603fe.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/307908"
@@ -5650,7 +5650,7 @@
   {
     "Asset": "Puzzle Story Book",
     "Publisher": "HitCode",
-    "Price": "$20.00",
+    "Price": "$20",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/d6176c73-9c4f-4327-a4d4-58347e38a4c0.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/198153"
@@ -6658,7 +6658,7 @@
   {
     "Asset": "Bones And Remains",
     "Publisher": "Jesse Mario",
-    "Price": "$6.00",
+    "Price": "$6",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/6946248c-2d32-48a6-bf50-1804ef8b5dcc.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/249320"
@@ -6674,7 +6674,7 @@
   {
     "Asset": "Christmas Trees",
     "Publisher": "Jesse Mario",
-    "Price": "$12.00",
+    "Price": "$12",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/47656b80-e010-4017-83a4-fb986d4c59fe.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/291100"
@@ -7906,7 +7906,7 @@
   {
     "Asset": "Quick Drag & Drop Level Placer",
     "Publisher": "MBS Studio",
-    "Price": "$50.00",
+    "Price": "$50",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/bb55f9bc-0cf7-4217-b742-3ead7e5789ce.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/351352"
@@ -7914,7 +7914,7 @@
   {
     "Asset": "Root Select Locker Faster Hierarchy Workflow",
     "Publisher": "MBS Studio",
-    "Price": "$20.00",
+    "Price": "$20",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/c4211b33-af4c-47cc-80c2-39a11ee4e137.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/351036"
@@ -8402,8 +8402,8 @@
   {
     "Asset": "Irregular Circle UI animation",
     "Publisher": "Maything Studio",
-    "Price": "$75",
-    "IsFree": false,
+    "Price": "Free",
+    "IsFree": true,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/222db717-40ed-4756-9c1a-658b40c28307.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/163132"
   },
@@ -9498,8 +9498,8 @@
   {
     "Asset": "The Pixel Man 2D Platformer Template",
     "Publisher": "Moenen",
-    "Price": "$60",
-    "IsFree": false,
+    "Price": "Free",
+    "IsFree": true,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/a62db1f9-d961-4c50-985d-0e58c79c8e85.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/100753"
   },
@@ -9954,7 +9954,7 @@
   {
     "Asset": "Ray Tracing2D",
     "Publisher": "Multicrash",
-    "Price": "$5.00",
+    "Price": "$5",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/22e352dd-b513-4daa-83a5-0c98b642d1f5.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/116248"
@@ -10178,7 +10178,7 @@
   {
     "Asset": "iOS Native Media",
     "Publisher": "Native Studio",
-    "Price": "$30.00",
+    "Price": "$30",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/0ec0e09c-e281-41e5-82eb-bd299be031ad.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/200979"
@@ -10434,7 +10434,7 @@
   {
     "Asset": "UTeleApp - Tools for Telegram Mini Apps",
     "Publisher": "OmnInteractive",
-    "Price": "$15.00",
+    "Price": "$15",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/dfbb5aca-f70f-44f3-a97e-d0e264ef956a.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/300734"
@@ -10570,7 +10570,7 @@
   {
     "Asset": "RPG Game UI",
     "Publisher": "Pixel Cattle Games",
-    "Price": "$12.00",
+    "Price": "$12",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/3b59bed4-83bf-4b41-a02d-e41d9b125d9d.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/99453"
@@ -10650,7 +10650,7 @@
   {
     "Asset": "Pixel Warrior",
     "Publisher": "Pixel Cattle Games",
-    "Price": "$10.00",
+    "Price": "$10",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/e3adc834-38a6-4a6f-97db-70d50dc101a0.png?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/103561"
@@ -11490,8 +11490,8 @@
   {
     "Asset": "RPG/Fantasy Food Items Pack",
     "Publisher": "Pixeled Bun",
-    "Price": "$8.99",
-    "IsFree": false,
+    "Price": "Free",
+    "IsFree": true,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/7a37c739-89b9-481a-ac87-664587bf00e6.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/280556"
   },
@@ -12978,7 +12978,7 @@
   {
     "Asset": "Survivors Roguelike Kit",
     "Publisher": "RoofenGame",
-    "Price": "$29.00",
+    "Price": "$29",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/786939cb-9541-41e9-86c9-3f1d7d9c5234.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/317848"
@@ -13018,7 +13018,7 @@
   {
     "Asset": "RuntimeMap Maker3D-Pro",
     "Publisher": "RuntimeCube",
-    "Price": "$25.00",
+    "Price": "$25",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/f9376f97-159b-45fc-b4bf-1aea9c862a11.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/201818"
@@ -13554,7 +13554,7 @@
   {
     "Asset": "Excel2Lua",
     "Publisher": "Small & Cheap, But Useful",
-    "Price": "$10.00",
+    "Price": "$10",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/44eb431b-47e5-4ed4-b8eb-7f33c251b595.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/76968"
@@ -13850,7 +13850,7 @@
   {
     "Asset": "The Fairy Flower",
     "Publisher": "Stone Snail",
-    "Price": "$10.00",
+    "Price": "$10",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/9df8fc22-b3df-48bc-8f46-cec55861390d.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/47523"
@@ -14074,7 +14074,7 @@
   {
     "Asset": "Sci-Fi Space Skybox Pack -1",
     "Publisher": "Swan Animations",
-    "Price": "$10.00",
+    "Price": "$10",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/1d5c045e-fb63-428b-85be-a2a336e03484.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/36270"
@@ -15858,8 +15858,8 @@
   {
     "Asset": "BatchRename",
     "Publisher": "T-L",
-    "Price": "$69.99",
-    "IsFree": false,
+    "Price": "Free",
+    "IsFree": true,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/449434f7-50a5-4836-b60c-f565cfc6734d.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/348982"
   },
@@ -15882,7 +15882,7 @@
   {
     "Asset": "TopDown ShootGameKit",
     "Publisher": "U3DC",
-    "Price": "$15.00",
+    "Price": "$15",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/dae848e2-0250-42bd-8a07-e769f98029b7.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/62072"
@@ -16458,8 +16458,8 @@
   {
     "Asset": "Lowpoly Cactus Pack",
     "Publisher": "VertexModeler Team",
-    "Price": "$4.99",
-    "IsFree": false,
+    "Price": "Free",
+    "IsFree": true,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/266f0d2c-a929-4a57-bf16-81fb961e384f.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/291590"
   },
@@ -16498,7 +16498,7 @@
   {
     "Asset": "Casual / Cartoon Game UI with SFX",
     "Publisher": "Volthes",
-    "Price": "$15.00",
+    "Price": "$15",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/d3cb14c2-4370-4558-83c6-323c74b3203b.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/95676"
@@ -16538,7 +16538,7 @@
   {
     "Asset": "Space Fighter 2015(Char_Enemy_Shady)",
     "Publisher": "Wang Yan",
-    "Price": "$5.00",
+    "Price": "$5",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/76352e6c-fb24-4467-b4ad-e284659a5bcc.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/38187"
@@ -16626,7 +16626,7 @@
   {
     "Asset": "CombatEditor",
     "Publisher": "WhiteBox Studio",
-    "Price": "$10.00",
+    "Price": "$10",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/408d8ca4-300c-45de-9e57-500133d97f3b.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/252420"
@@ -16834,7 +16834,7 @@
   {
     "Asset": "Mesh Explosion Tool",
     "Publisher": "Wu Haipeng",
-    "Price": "$15.00",
+    "Price": "$15",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/ac5e5eac-a161-4f6b-8bf0-4d635976831b.png?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/267237"
@@ -16890,7 +16890,7 @@
   {
     "Asset": "Ghost Trail Effect",
     "Publisher": "Wu Haipeng",
-    "Price": "$15.00",
+    "Price": "$15",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/5c6ef8e9-5525-4522-896b-d116754d4972.png?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/262593"
@@ -18594,7 +18594,7 @@
   {
     "Asset": "UI mask blur",
     "Publisher": "iowen",
-    "Price": "$15.00",
+    "Price": "$15",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/8e8f420b-897b-45c8-bc05-f3ae98061f80.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/98662"
@@ -18714,7 +18714,7 @@
   {
     "Asset": "Hololnterior Lite URP",
     "Publisher": "kyxos",
-    "Price": "$25.00",
+    "Price": "$25",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/9776c2aa-a162-45a1-8dcd-c1fb6f7cac6c.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/312207"
@@ -18722,7 +18722,7 @@
   {
     "Asset": "Hololnterior Lite HDRP",
     "Publisher": "kyxos",
-    "Price": "$25.00",
+    "Price": "$25",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/fc7055c0-3c1b-4b14-b992-ba1de3ec37ff.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/312438"
@@ -18818,7 +18818,7 @@
   {
     "Asset": "AI Background Materials-European palace1 (100)",
     "Publisher": "liz",
-    "Price": "$5.00",
+    "Price": "$5",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/73206ce7-75bd-4147-95df-d51cb6368df7.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/233553"
@@ -19314,8 +19314,8 @@
   {
     "Asset": "Groundhog Match Kit For Playmaker",
     "Publisher": "qulei55667",
-    "Price": "$65",
-    "IsFree": false,
+    "Price": "Free",
+    "IsFree": true,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/f133f5a8-b923-482c-9ad8-d20ce8a9083b.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/207214"
   },
@@ -20186,7 +20186,7 @@
   {
     "Asset": "Stream Lighting Shaders",
     "Publisher": "ubaojin",
-    "Price": "$60.00",
+    "Price": "$60",
     "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/d47cc00a-a6ed-4a7f-9c0c-731fbd5a82ce.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/53056"
